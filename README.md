@@ -1,6 +1,5 @@
 # Introdução
-Este código lê um arquivo txt e retira as quebras de linhas, colocando no lugar espaços.
-
+Este código lê um arquivo txt e retira as quebras de linhas, colocando espaço no lugar.
 ## Exemplo
 Texto com quebra de linha:
 ```
